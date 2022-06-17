@@ -1,5 +1,8 @@
 # CodigoMorse
 
+<p>This is a basic Morse Encoder implementation</p>
+
+
 <a href="https://github.com/IvsonSoares/ASTAR-ALG/tree/main/src">Labirinto</a>
 <p>Implementation of Path Finding using A* Algorithm</p>
 
